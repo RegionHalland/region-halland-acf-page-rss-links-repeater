@@ -1,0 +1,13 @@
+{
+    "name": "regionhalland/region-halland-acf-page-rss-links-repeater",
+    "description": "Hämta RSS-flöden",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roland Hydén",
+            "email": "Roland.Hyden@Regionhalland.se"
+        }
+    ],
+    "require": {}
+}
