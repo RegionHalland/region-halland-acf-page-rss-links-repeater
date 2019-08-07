@@ -6,7 +6,7 @@
 	/*
 	Plugin Name: Region Halland ACF Page RSS Link Repeater
 	Description: ACF-fält för länk till en eller flera RSS-flöden (OBS! Inte via composer)
-	Version: 1.0.0
+	Version: 1.1.0
 	Author: Roland Hydén
 	License: GPL-3.0
 	Text Domain: regionhalland

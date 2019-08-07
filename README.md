@@ -10,6 +10,14 @@ Nedan följer instruktioner hur du kan använda pluginet "region-halland-acf-pag
 Denna plugin hämtar valfritt rss-flöde
 
 
+## Licensmodell
+
+Denna plugin använder licensmodell GPL-3.0. Du kan läsa mer om denna licensmodell via den medföljande filen:
+```sh
+LICENSE (https://github.com/RegionHalland/region-halland-acf-page-rss-links-repeater/blob/master/LICENSE)
+```
+
+
 ## Installation och aktivering
 
 ```sh
@@ -46,7 +54,7 @@ OBS! Justera så att du hämtar aktuell version.
 
 ```sh
 "require": {
-  "regionhalland/region-halland-acf-page-rss-links": "1.0.0"
+  "regionhalland/region-halland-acf-page-rss-links-repeater": "1.0.0"
 },
 ```
 
@@ -69,6 +77,10 @@ OBS! Justera så att du hämtar aktuell version.
 
 
 ## Versionhistorik
+
+### 1.1.0
+- Uppdaterat information om licensmodell
+- Bifogat fil med licensmodell
 
 ### 1.0.0
 - Första version
